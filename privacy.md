@@ -1,3 +1,7 @@
+
+## TikTok
+
+The app uses the TikTok Content Posting API only to send the finished short videos to the streamer's own TikTok account (as drafts or posts) and reads the basic profile of that account to confirm it is connected. No data about other TikTok users is accessed.
 ---
 title: Privacy Policy - NitroJam Clip Bot
 ---
